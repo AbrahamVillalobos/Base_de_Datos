@@ -82,7 +82,7 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 
-
+https://www.db-fiddle.com/f/tJtiLhGuRSFJq5YB1zfUpf/0
 
 
 
