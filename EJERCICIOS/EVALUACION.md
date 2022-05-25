@@ -80,11 +80,11 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/103066775/169086428-9675e349-005e-40fb-9a15-f5eedd218575.png)
 
-
+Estructura:
 
 https://www.db-fiddle.com/f/tJtiLhGuRSFJq5YB1zfUpf/0
 
 
-
+Llenado de datos:
 
 https://www.db-fiddle.com/f/tJtiLhGuRSFJq5YB1zfUpf/1
