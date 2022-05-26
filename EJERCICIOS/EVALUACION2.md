@@ -5,20 +5,42 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+SELECT, INSERT, UPDATE, DELETE
+
+
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
+
+datos de longitud fija char(x), datos de longitud variable varchar (x), enteros int, enteros grandes bigint.
+
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+truncate es un comando de DDL, mientas que delete es un comando DML. truncate elimina datos de forma general como tuplas enteras o tablas enteras y no las borra si es que están vinculadas a otras tablas, mientras que delete borra campos especificos y sin importar que estén vinculadas a otros datos.
+
+
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
+Impide que los campos se repitan
+
+
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
+
+ambos generan un espacio para ingresar caracteres, pero mientras varchar varia la longitud de caracteres y guarda unicamente los caracteres que se utilizan, char no cambia y guarda la longitud especificada de caracteres aunque no se utilicen por lo que puede ocupar más espacio de memoria.
 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+Structured Query Language, es un lenguaje estándar e interactivo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones en ellas. Con la utilización del álgebra y de cálculos relacionales, el SQL brinda la posibilidad de realizar consultas con el objetivo de recuperar información de las bases de datos de manera sencilla
+
+
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+MySQL es un sistema de gestión de bases de datos relacionales de código abierto basado en SQL. Se diseñó y se optimizó para las aplicaciones web y puede utilizarse en cualquier plataforma.
+
 
 ## Práctica 5.
 ### Gestores de base de datos
