@@ -80,6 +80,9 @@ Tienda de informática
 Modelo entidad/relación
 
 
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/103066775/170520997-29164125-a592-4fdd-917c-0da8584e154f.png)
+
+
 
 
 Base de datos para MySQL
