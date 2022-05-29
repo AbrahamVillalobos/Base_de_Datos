@@ -77,8 +77,8 @@ constan de un título y una extensión.
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
 
+![Untitled Diagram drawio (4)](https://user-images.githubusercontent.com/103066775/170892561-ac30e7ef-bb71-440a-a02f-585690ef18fa.png)
 
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/103066775/169086428-9675e349-005e-40fb-9a15-f5eedd218575.png)
 
 Estructura:
 
