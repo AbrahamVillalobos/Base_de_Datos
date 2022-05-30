@@ -37,7 +37,7 @@ En la BD utilizada en clase realiza las siguientes consultas:
 * Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
 
-https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
+https://www.db-fiddle.com/f/tJtiLhGuRSFJq5YB1zfUpf/4
 
 EJEMPLO
 https://www.db-fiddle.com/f/f5YQQo1MCXhD95LFCdiYFB/13
