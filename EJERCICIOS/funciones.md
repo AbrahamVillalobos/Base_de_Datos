@@ -2,6 +2,9 @@ En base al ejercicio realiza las siguientes consultas
 
 base: https://www.db-fiddle.com/f/4LFXyfehyi9bymLTe7zcKc/1
 
+
+MIA: https://www.db-fiddle.com/f/4LFXyfehyi9bymLTe7zcKc/3
+
 Por error se capturaron mal los siguientes datos, se deben corregir.
 
 ![image](https://user-images.githubusercontent.com/91554777/171071745-a92dfd2f-2cf2-4bed-a081-8728f93fc005.png)
