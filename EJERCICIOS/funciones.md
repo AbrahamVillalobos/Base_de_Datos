@@ -7,6 +7,7 @@ Por error se capturaron mal los siguientes datos, se deben corregir.
 ![image](https://user-images.githubusercontent.com/91554777/171071745-a92dfd2f-2cf2-4bed-a081-8728f93fc005.png)
 
 
+![image](https://user-images.githubusercontent.com/103066775/171224901-35d9c78a-625a-4905-a0d0-9c34f9fec342.png)
 
 
 Realiza las siguientes notas
