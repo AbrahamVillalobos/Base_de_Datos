@@ -9,6 +9,8 @@ Por error se capturaron mal los siguientes datos, se deben corregir.
 
 ![image](https://user-images.githubusercontent.com/103066775/171224901-35d9c78a-625a-4905-a0d0-9c34f9fec342.png)
 
+![image](https://user-images.githubusercontent.com/103066775/171225668-93fd4490-4c19-46f9-9853-660afc76b41e.png)
+
 
 Realiza las siguientes notas
 
