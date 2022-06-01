@@ -1,6 +1,10 @@
 # Proyecto Final de base de datos.
 ### Indicaciones de lo que se debe realizar
 
+
+https://www.db-fiddle.com/f/vRTCe3tM7f1eo441ea8CjY/0
+
+
 ● Diseña el modelo entidad-relación del siguiente problema.
 
 ● Crea el script para la base de datos.
