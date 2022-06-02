@@ -1,4 +1,7 @@
 
+
+https://www.db-fiddle.com/f/8G3LSW2wa3ct17Tg2MFRe7/2
+
 ## Práctica 4
 ### Data warehouse
 
@@ -32,6 +35,7 @@ Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/103066775/171659955-ff9780f3-00ab-4c42-aa8b-81b8e73130b8.png)
 
 
 
@@ -41,9 +45,23 @@ mostrará dos columnas, una con el nombre del fabricante y otra con el número d
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
 
+
+
+![image](https://user-images.githubusercontent.com/103066775/171676807-9cc5e0ba-9457-4972-a29f-b085e5675e9a.png)
+
+
+
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
+
+
+
+
+![image](https://user-images.githubusercontent.com/103066775/171676853-0a191ff6-c85c-4f86-89a0-d436bec22373.png)
+
+
+
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
