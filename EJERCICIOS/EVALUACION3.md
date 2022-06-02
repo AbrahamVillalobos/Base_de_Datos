@@ -9,9 +9,19 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+Data warehouse es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado; consistente para respaldar el análisis empresarial, la minería de datos, inteligencia artificial y Machine Learning. Data warehouse permite a una organización o empresa ejecutar análisis potentes en grandes volúmenes petabytes y petabytes de datos históricos de formas que una base de datos estándar simplemente no puede.
+
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+
+![image](https://user-images.githubusercontent.com/103066775/171658249-a6b53e86-a0e4-4617-b194-d1a2e7aba4c2.png)
+
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+![image](https://user-images.githubusercontent.com/103066775/171658513-f5264c5c-ab34-44a0-b2d9-c34e8fa4789e.png)
+
 
 
 ## Práctica 7
@@ -21,6 +31,8 @@ Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la ge
 Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
+
+
 
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
